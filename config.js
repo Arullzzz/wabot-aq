@@ -20,10 +20,10 @@ runtime = process.uptime()
 teks = `${kyun(runtime)}`
 run = `${kyun(runtime)}`
 
-global.owner = ['085850539404']// Put your number here
+global.owner = ['085822347348']// Put your number here
 
 global.mods = [] // Want some help?
-global.prems = [085850539404] // Premium user has unlimited limit
+global.prems = [085822347348] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -48,8 +48,8 @@ const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
 // var sticker_name = 'I hope you\'re fine'
-//var sticker_author = 'Nurutomo'
-var sticker_name = 'X - RyuuZeyy' // ganti aja
+//var sticker_author = 'Arull'
+var sticker_name = 'ArullBotz' // ganti aja
 var sticker_author = '' // ganti aja
 } else {
   var sticker_name = stickerpack.spackname
@@ -78,11 +78,11 @@ fs.watchFile(file, () => {
   require(file)
 })
 
-// Tambahan By Me (RyuuZeyy)
+// Tambahan By Me (Arullzzz)
 gc1 = 'https://chat.whatsapp.com/FJkbQjpewltErmQRwzC9rj'
 gc2 = 'https://chat.whatsapp.com/HTcmEqjQeu1GMN2xN210QJ'
 gc3 = 'https://chat.whatsapp.com/I3yAMaBNA9X63FspQ5V46N'
-namaig = 'https://instagram.com/bah.raid'
+namaig = 'https://instagram.com/sahrulwara_____'
 linkf = gc1
 linkff = namaig
 namabot = 'ChokiBot'
